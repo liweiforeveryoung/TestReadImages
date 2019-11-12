@@ -1,0 +1,63 @@
+   RELEASE Test
+hardware_concurrency num : 4
+Test reading 20 images:
+current thread num : 1 cost time: 82.429
+current thread num : 2 cost time: 34.373
+current thread num : 3 cost time: 26.818
+current thread num : 4 cost time: 21.777
+
+Test reading 40 images:
+current thread num : 1 cost time: 92.083
+current thread num : 2 cost time: 133.725
+current thread num : 3 cost time: 154.926
+current thread num : 4 cost time: 119.799
+
+Test reading 80 images:
+current thread num : 1 cost time: 236.226
+current thread num : 2 cost time: 262.183
+current thread num : 3 cost time: 282.255
+current thread num : 4 cost time: 290.384
+
+   RELEASE Test
+hardware_concurrency num : 4
+Test reading 20 images:
+current thread num : 1 cost time: 46.452
+current thread num : 2 cost time: 58.715
+current thread num : 3 cost time: 32.124
+current thread num : 4 cost time: 39.022
+
+Test reading 40 images:
+current thread num : 1 cost time: 74.054
+current thread num : 2 cost time: 124.02
+current thread num : 3 cost time: 112.961
+current thread num : 4 cost time: 124.233
+
+Test reading 80 images:
+current thread num : 1 cost time: 235.034
+current thread num : 2 cost time: 266.039
+current thread num : 3 cost time: 245.005
+current thread num : 4 cost time: 249.915
+
+   RELEASE Test
+hardware_concurrency num : 4
+Test reading 20 images:
+current thread num : 1 cost time: 64.976
+current thread num : 2 cost time: 61.08
+current thread num : 3 cost time: 14.985
+current thread num : 4 cost time: 8.674
+
+Test reading 40 images:
+current thread num : 1 cost time: 71.008
+current thread num : 2 cost time: 92.75
+current thread num : 3 cost time: 99.128
+current thread num : 4 cost time: 104.379
+
+Test reading 80 images:
+current thread num : 1 cost time: 231.025
+current thread num : 2 cost time: 186.108
+current thread num : 3 cost time: 199.904
+current thread num : 4 cost time: 208.003
+
+   RELEASE Test
+hardware_concurrency num : 4
+Test reading 20 images:
